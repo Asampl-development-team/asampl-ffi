@@ -1,7 +1,7 @@
 #pragma once
 
 #define ASAMPL_FFI_VERSION_MAJOR 0
-#define ASAMPL_FFI_VERSION_MINOR 1
+#define ASAMPL_FFI_VERSION_MINOR 2
 
 #include <stddef.h>
 
